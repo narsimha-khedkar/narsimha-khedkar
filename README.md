@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋🏻 
-I am Narsimha Khedkar and currently work as a IT Architect at [**NC STATE UNIVERSITY**](https://www.ncsu.com/). I come with an extensive experience of working with different technologies including Web Development, Data Science, Machine Learning and Deep Learning.
+I am Narsimha Khedkar and currently work as a IT Architect at [**NC STATE UNIVERSITY**](https://www.ncsu.com/). I come with 16 years of extensive experience of working with different technologies including Data Science, Machine Learning and Deep Learning.
 
-In the past, I have worked with [**InterviewBit**](https://www.interviewbit.com/) and [**upGrad**](https://www.upgrad.com/) as a Data Science Intern. I have also worked as a Data Analyst Intern at [**MyGov India**](https://www.mygov.in/), which comes under the _**Ministry of Electronics & Information Technology, Government of India**_.
+In the past, I have worked with [**Wipro Technologies**](https://www.wipro.com/) and [**Infosys**](https://www.infosys.com/) as a PeopleSoft HCM Consultant. I have also worked extensively on Peoplesoft technologies encompassing a wide range of skill set, roles, geographies and industry verticals. I have experience in Multiple Upgrades, Implementations and Re-enhancements of PeopleSoft applications.
 
 ### Things I'm good at :fire:
 
