@@ -37,5 +37,5 @@ In the past, I have worked with [**Wipro Technologies**](https://www.wipro.com/)
 
 ### How to reach me 📱
 
--  [<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/narsimha-khedkar/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://www.narsimhakhedkar.com/) 
+[<img target="_blank" src="https://img.icons8.com/doodle/64/000000/linkedin-circled.png"/>](https://www.linkedin.com/in/narsimha-khedkar/) [<img target="_blank" src="https://img.icons8.com/dusk/64/000000/domain.png"/>](https://www.narsimhakhedkar.com/) 
 
